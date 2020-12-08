@@ -4,12 +4,16 @@ background-color: darkviolet;
 color: white;
 font-family: monospace;	
 font-size: 25px;
+margin-top: -55px;
 }
 
 .about_heading{
 text-align: center;
 font-size: 85px;
-background-color: indigo;	
+background-color: indigo;
+margin-right: -20px;
+margin-left: -8px;
+margin-bottom: -5px;
 }
 
 .about_footer{
@@ -19,6 +23,11 @@ text-align: center;
 nav{
 font-size: 35px;
 text-align: center;
+margin-bottom: -20px;
+}
+
+.aboutdes{
+margin-top: 35px;
 }
 
 .d{
@@ -29,29 +38,16 @@ div{
 text-align: center;	
 }
 
+.logo{
+float: left;
+margin-top: -219px;
+padding-top: 95px;
+margin-left: -10px;
+}
+
 footer{
 text-align: center;	
 }
-
-/*.link1{
-margin-right: 60px;	
-}
-
-.link2{
-margin-right: 60px;	
-}
-
-.link3{
-margin-left: 60px;		
-}
-
-.link4{
-margin-left: 60px;		
-}
-
-.link5{
-margin-left: 60px;		
-}*/
 
 /* unvisited link */
 a:link{
@@ -80,15 +76,21 @@ background-color: darkviolet;
 color: white;
 font-family: monospace;	
 font-size: 25px;
+margin-top: -55px;
 }
 
 .history_header{
 text-align: center;
-background-color: indigo;	
+background-color: indigo;
+font-size: 85px;
+margin-right: -20px;
+margin-left: -8px;
+margin-bottom: -5px;
 }
 
 .history_of_description{
 font-size: 25px;	
+margin-top: 35px;
 }
 
 .tablediv{	
@@ -137,6 +139,7 @@ background-color: darkviolet;
 color: white;
 font-family: monospace;	
 font-size: 25px;
+margin-top: -55px;
 }
 
 .history{
@@ -149,8 +152,10 @@ margin-bottom: 45px;
 
 .usesmartphone {
 text-align: center;	
-font-size: 55px;
+font-size: 85px;
 background-color: indigo;	
+margin-right: -20px;
+margin-left: -8px;
 }
 
 .use_smatphone_description {
@@ -191,11 +196,19 @@ background-color: darkviolet;
 color: white;
 font-family: monospace;	
 font-size: 25px;
+margin-top: -55px;
 }
 
 .prosconshead {
 text-align: center;
 background-color: indigo;	
+font-size: 85px;
+margin-right: -20px;
+margin-left: -8px;
+}
+
+.prosconsnav {
+margin-bottom: -20px;	
 }
 
 .videos1 {
@@ -214,11 +227,15 @@ background-color: darkviolet;
 color: white;
 font-family: monospace;	
 font-size: 25px;
+margin-top: -55px;
 }
 
 .contact_header {
 text-align: center;
 background-color: indigo;
+font-size: 85px;
+margin-right: -20px;
+margin-left: -8px;
 }
 
 .cs {
@@ -249,23 +266,4 @@ border: none;
 
 .cb {
 border: none;	
-}
-/*thank you page*/
-
-.thank_you{
-text-align: center;	
-background-color: darkviolet;
-color: white;
-font-family: monospace;	
-font-size: 220px;
-}
-
-.validbuttons{
-margin-top: -240px;
-text-align: center;	
-}
-
-.dp{
-margin-bottom: -100px;	
-font-size: 20px;
 }
