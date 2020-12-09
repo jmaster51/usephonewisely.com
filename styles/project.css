@@ -214,6 +214,10 @@ border-style: solid;
 border-color: cyan;	
 }
 
+.bb {
+margin-bottom: -20px;	
+}
+
 /*contact me page*/
 
 .contact_me {
