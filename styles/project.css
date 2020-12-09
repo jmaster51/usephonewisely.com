@@ -251,7 +251,6 @@ margin-top: -20px;
 .form_procses {
 text-align: center;
 font-size: 25px;
-margin-bottom: 40px;
 }
 
 .submit {
@@ -265,4 +264,9 @@ border: none;
 
 .cb {
 border: none;	
+}
+
+.proconfoot {
+text-align: center;
+margin-bottom: 40px;
 }
