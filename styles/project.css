@@ -1,5 +1,5 @@
 /*about page*/
-.about{
+.about {
 background-color: darkviolet;
 color: white;
 font-family: monospace;	
@@ -7,7 +7,7 @@ font-size: 25px;
 margin-top: -55px;
 }
 
-.about_heading{
+.about_heading {
 text-align: center;
 font-size: 85px;
 background-color: indigo;
@@ -16,36 +16,36 @@ margin-left: -8px;
 margin-bottom: -5px;
 }
 
-.about_footer{
+.about_footer {
 text-align: center;	
 }
 
-nav{
+nav {
 font-size: 35px;
 text-align: center;
 margin-bottom: -20px;
 }
 
-.aboutdes{
+.aboutdes {
 margin-top: 35px;
 }
 
-.d{
+.d {
 font-size: 20px;	
 }
 
-div{
+div {
 text-align: center;	
 }
 
-.logo{
+.logo {
 float: left;
 margin-top: -219px;
 padding-top: 95px;
 margin-left: -10px;
 }
 
-footer{
+footer {
 text-align: center;	
 }
 
@@ -54,28 +54,28 @@ text-decoration: none;
 }
 
 /* unvisited link */
-a:link{
+a:link {
 color: cyan;
 }
 
 /* visited link */
-a:visited{
+a:visited {
 color: lime;
 }
 
 /* mouse over link */
-a:hover{
+a:hover {
 color: magenta;
 }
 
 /* selected link */
-a:active{
+a:active {
 color: lime;
 }
 
 /*history_of_smartphones page*/
 
-.history_of_smartphones{
+.history_of_smartphones {
 background-color: darkviolet;
 color: white;
 font-family: monospace;	
@@ -83,7 +83,7 @@ font-size: 25px;
 margin-top: -55px;
 }
 
-.history_header{
+.history_header {
 text-align: center;
 background-color: indigo;
 font-size: 85px;
@@ -92,32 +92,32 @@ margin-left: -8px;
 margin-bottom: -5px;
 }
 
-.history_of_description{
+.history_of_description {
 font-size: 25px;	
 margin-top: 35px;
 }
 
-.tablediv{	
+.tablediv {	
 margin-left: auto;
 margin-right: auto;
 font-size: 25px;
 }
 
-.c{
+.c {
 text-align: center;
 }
 
-.iphone_history{
-text-align: center;
-font-size: 35px;
-}
-
-.samsung_history{
+.iphone_history {
 text-align: center;
 font-size: 35px;
 }
 
-.history_of_smartphones{
+.samsung_history {
+text-align: center;
+font-size: 35px;
+}
+
+.history_of_smartphones {
 font-size: 35px;	
 }
 
@@ -131,14 +131,14 @@ td {
 border: solid;	
 }
 
-h2{
+h2 {
 text-align: center;
 font-size: 35px;
 }
 
 /*how to use a smartphone page*/
 
-.how_to_use_a_smartphone{
+.how_to_use_a_smartphone {
 background-color: darkviolet;
 color: white;
 font-family: monospace;	
@@ -146,7 +146,7 @@ font-size: 25px;
 margin-top: -55px;
 }
 
-.history{
+.history {
 text-align: center;	
 }
 
@@ -195,7 +195,7 @@ border-style:none;
 
 /*pros and cons*/
 
-.pros_and_cons{
+.pros_and_cons {
 background-color: darkviolet;
 color: white;
 font-family: monospace;	
@@ -259,11 +259,11 @@ text-align: center;
 font-size: 25px;	
 }
 
-.submit{
+.submit {
 text-align: center;	
 }
 
-.cl{
+.cl {
 text-align: right;
 border: none;
 }
