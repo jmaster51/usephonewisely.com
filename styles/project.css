@@ -224,6 +224,10 @@ border-style: solid;
 border-color: cyan;	
 }
 
+b {
+font-size: 30px;	
+}
+
 /*contact me page*/
 
 .contact_me {
