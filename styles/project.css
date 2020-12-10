@@ -214,8 +214,12 @@ border-style: solid;
 border-color: cyan;	
 }
 
-.bb {
+/*.bb {
 margin-bottom: 1px;	
+}*/
+
+main {
+margin-top: 20px;	
 }
 
 /*contact me page*/
